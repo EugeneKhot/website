@@ -236,11 +236,11 @@ span {
     }
 
     .menu {
-        gap: 30px;
+        gap: 25px;
     }
 
     .menu_item a {
-        font-size: 19px;
+        font-size: 17px;
     }
     
     .box-1,
