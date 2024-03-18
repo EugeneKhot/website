@@ -176,6 +176,7 @@ span {
 .p-box-1,
 .p-box-2,
 .p-box-3 {
+    font-size: 18px;
     margin: 10px 30px 20px 30px;
     color: rgb(224, 222, 222);
     line-height: 1.6;
@@ -201,7 +202,7 @@ span {
     .container {
         display: flex;
         flex-direction: column;
-        width: 766px;
+        width: 100%;
         height: auto;
     }
 
@@ -270,12 +271,14 @@ span {
     .h-box-1,
     .h-box-2,
     .h-box-3 {
+        font-size: 33px;
         padding: auto;
     }
 
     .p-box-1,
     .p-box-2,
     .p-box-3 {
+        font-size: 20px;
         padding: 0;
     }
 
